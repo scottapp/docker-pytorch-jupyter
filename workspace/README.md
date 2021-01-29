@@ -1,1 +1,1 @@
-# this is your workspace directory
+# this is the workspace directory
