@@ -131,6 +131,7 @@ dmypy.json
 /tutorials/PyTorch-Tutorial/mnist
 /tutorials/Deep-Learning-with-PyTorch-A-60-Minute-Blitz/data
 /tutorials/What-is-Torch-nn/data
+/tutorials/local/*
 
 .ipynb_checkpoints
 *.pth
