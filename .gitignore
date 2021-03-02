@@ -128,10 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-/tutorials/PyTorch-Tutorial/mnist
-/tutorials/Deep-Learning-with-PyTorch-A-60-Minute-Blitz/data
-/tutorials/What-is-Torch-nn/data
-/tutorials/local/*
+/PyTorch-Tutorial/workspace/PyTorch-Tutorial/mnist
+/Deep-Learning-with-PyTorch-A-60-Minute-Blitz/workspace/Deep-Learning-with-PyTorch-A-60-Minute-Blitz/data
+/What-is-Torch-nn/workspace/What-is-Torch-nn/data
+/local/*
 
 .ipynb_checkpoints
 *.pth

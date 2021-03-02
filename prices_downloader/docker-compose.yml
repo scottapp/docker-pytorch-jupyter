@@ -10,9 +10,8 @@ services:
 
   server:
     image: pytorch-jupyter-base:0.1
-    container_name: pytorch-jupyter-server
+    container_name: prices-downloader-jupyter-server
     volumes:
       - ./workspace:/home/jovyan/workspace
-      - ./tutorials:/home/jovyan/tutorials
     ports:
       - "8888:8888"
